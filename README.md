@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
   
 ## Overview
-This is an employees management solution with all the CRUD opereations developer with [Nest](https://github.com/nestjs/nest) framework TypeScript.
+This is an employees management solution with all the CRUD operetions developed with [Nest](https://github.com/nestjs/nest) framework TypeScript.
 
 ## Installation
 
